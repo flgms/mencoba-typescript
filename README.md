@@ -1,0 +1,2 @@
+# mencoba-typescript
+hello world
